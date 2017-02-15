@@ -1,5 +1,5 @@
 # Assembly-Language
-This repository contains course work from as assembly language course at the 
+This repository contains course work from an assembly language course at the 
 California State University of San Marcos. All work was completed independenlty. 
 Assignments vary from beginner-level to intermediate-level.
 Assignment1:
