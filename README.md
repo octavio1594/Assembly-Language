@@ -2,7 +2,7 @@
 This repository contains course work from an assembly language course at the 
 California State University of San Marcos. All work was completed independenlty. 
 Assignments vary from beginner-level to intermediate-level.
-Assignment1:
+# Assignment1:
 Assignment2:
 Assignment3:
 Assignment4:
